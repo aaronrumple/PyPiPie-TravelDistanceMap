@@ -1,0 +1,5 @@
+title: "Hexagon\nDistance Map"
+tooltip: >-
+  Creates a hexagonal detail-item distance map over a selected face and colors
+  the hexagons by shortest-path distance to selected source elements.
+author: Aaron Rumple
